@@ -3,9 +3,11 @@ body {
 }
 
 h1 {
-  font-family:blue;
+  font-family:ariel;
+  color:blue:
 }
 
 h1.hover {
-   font-family:yellow;
+   font-family:Times;
+  color:yellow;
 }
